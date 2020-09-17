@@ -1,3 +1,2 @@
-# python
-Python and its use cases
-[](img.png)
+# Python and its Use cases
+## [](img.png)
